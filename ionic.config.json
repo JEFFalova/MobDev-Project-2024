@@ -1,0 +1,7 @@
+{
+  "name": "Atu-Movies",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
